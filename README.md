@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Nilesh Muthal
 - I’m interested in IT Operations and Related Technologies
-- I’m currently learning various Linux Services, Cloud and DevOps Practices along with various IT Operation Technologies
+- I’m currently learning various Linux Services, Cloud and DevOps Practices along with various IT Operations Technologies
 - How to reach me nileshmuthal.jobs@gmail.com | Linkedin: https://linkedin.com/in/nileshmuthal007
 - All of my projects are available at https://nileshmuthal1317.github.io/portfolio/
 
