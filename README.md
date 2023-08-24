@@ -1,12 +1,12 @@
 
+<h1 align="center">Hi 👋, I'm Nilesh Muthal</h1>
+<h3 align="center">Linux System Engineer 🚀</h3>
 
 
-- 👋 Hi, I’m Nilesh Muthal
 - I’m interested in IT Operations and Related Technologies
 - I’m currently learning various Linux Services, Cloud and DevOps Practices along with various IT Operations Technologies
 - How to reach me nileshmuthal.jobs@gmail.com | Linkedin: https://linkedin.com/in/nileshmuthal007
 - All of my projects are available at https://nileshmuthal1317.github.io/portfolio/
-
 
 
 <!---
