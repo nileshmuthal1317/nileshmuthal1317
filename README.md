@@ -13,6 +13,7 @@ enhanced system efficiency and scalability.
 - How to reach me nileshmuthal.jobs@gmail.com | Linkedin: https://linkedin.com/in/nileshmuthal007
 - All of my projects are available at https://nileshmuthal1317.github.io/portfolio/
 
+<br>
 <h3 align="left">Tools and Technologies:</h3>
 <p align="left">  
   <a href="https://www.redhat.com" target="_blank" rel="noreferrer">
@@ -56,15 +57,12 @@ enhanced system efficiency and scalability.
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
 </a>
+  
+<br>
 
-
-
-
-
-
-
-
-
+<a>
+  <strong style="font-weight: bold; font-size: 18px;">Customer Support</strong>
+</a>
 
 
 </p>
