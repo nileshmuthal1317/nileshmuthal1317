@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Nilesh Muthal</h1>
-<h3 align="center">Linux System Engineer 🚀</h3>
 
-- Linux System Engineer with 4 years of experience in Linux Server Administration, Customer Support, Computer 
+
+- **Linux System Engineer** with 4 years of experience in Linux Server Administration, Customer Support, Computer 
 Hardware, and Networking.
 - Proficient in managing Linux-based servers, monitoring performance, incident/change management, and 
 providing customer support for diverse web services.
