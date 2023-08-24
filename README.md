@@ -13,8 +13,8 @@ enhanced system efficiency and scalability.
 - How to reach me nileshmuthal.jobs@gmail.com | Linkedin: https://linkedin.com/in/nileshmuthal007
 - All of my projects are available at https://nileshmuthal1317.github.io/portfolio/
 
-<br>
-<h3 align="left">Tools and Technologies:</h3>
+
+<h3 align="left">Tools and Technologies</h3>
 <p align="left">  
   <a href="https://www.redhat.com" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="redhat" width="40" height="40"/>
@@ -58,23 +58,28 @@ enhanced system efficiency and scalability.
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
 </a>
   
-<br><br>
+<br>
 
-<a>
-  <strong style="font-weight: bold; font-size: 32px;">Service Now</strong>
-</a><br>
-<a>
-  <strong style="font-weight: bold; font-size: 32px;">IBM Netcool Dashboard</strong>
-</a><br>
-<a>
-  <strong style="font-weight: bold; font-size: 32px;">Networking and Hardware</strong>
-</a><br>
-<a>
-  <strong style="font-weight: bold; font-size: 32px;">DNS/DATABASE/EMAIL/WEB Servers</strong>
-</a><br>
-<a>
-  <strong style="font-weight: bold; font-size: 32px;">Linux Service Like SSH/FTP/NTP etc.</strong>
-</a>
+<h3 align="left">Technical Skills</h3>
+
+- Linux Server Administration - **RHEL/CentOS**
+- Fundamental Automation Scripting - **Bash, Python**
+- Performance Monitoring and Event Management - **IBM Monitoring Dashboard, Nagios**
+- Incident Management and Change Management - **ServiceNow**
+- Cloud Technologies - **AWS** and Virtualization - **VMware vSphere**
+- Web Servers - Apache and Web applications deployment - **Python, Node.js, Java, PHP**
+- Database Management - **MySQL**
+- DNS Server **Bind9** and Email Server Management - **Postfix, Dovecot, RoundCube Webmail**
+- CMS Tools **WordPress** and Web Hosting Control Panels - **cPanel**
+- **Networking and Hardware Troubleshooting** in Production Environments
+- Experience in communicating with customers, understanding and troubleshooting difficulties, and effectively addressing and prioritizing customer queries.
+- Exploring **DevOps Practices** and Tools:<br>
+   ➜ **Git/GitHub** for Version Control<br>
+   ➜ **Ansible** for Configuration Management and Infrastructure Provisioning<br>
+   ➜ **Docker** and Containerization<br>
+   ➜ **Kubernetes** for Container Orchestration<br>
+   ➜ **Continuous** Integration and Continuous Deployment Pipelines
+
 
 
 </p>
