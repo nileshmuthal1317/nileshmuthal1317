@@ -58,10 +58,22 @@ enhanced system efficiency and scalability.
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
 </a>
   
-<br>
+<br><br>
 
 <a>
-  <strong style="font-weight: bold; font-size: 18px;">Customer Support</strong>
+  <strong style="font-weight: bold; font-size: 32px;">Service Now</strong>
+</a><br>
+<a>
+  <strong style="font-weight: bold; font-size: 32px;">IBM Netcool Dashboard</strong>
+</a><br>
+<a>
+  <strong style="font-weight: bold; font-size: 32px;">Networking and Hardware</strong>
+</a><br>
+<a>
+  <strong style="font-weight: bold; font-size: 32px;">DNS/DATABASE/EMAIL/WEB Servers</strong>
+</a><br>
+<a>
+  <strong style="font-weight: bold; font-size: 32px;">Linux Service Like SSH/FTP/NTP etc.</strong>
 </a>
 
 
