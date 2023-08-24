@@ -78,7 +78,7 @@ enhanced system efficiency and scalability.
   **- Ansible** for Configuration Management and Infrastructure Provisioning<br>
   **- Docker** and Containerization<br>
   **- Kubernetes** for Container Orchestration<br>
-  **- Continuous** Integration and Continuous Deployment Pipelines
+  **- Continuous Integration**  and **Continuous Deployment**  Pipelines
 
 
 
