@@ -2,9 +2,13 @@
 <h1 align="center">Hi 👋, I'm Nilesh Muthal</h1>
 <h3 align="center">Linux System Engineer 🚀</h3>
 
-
-- I’m interested in IT Operations and Related Technologies
-- I’m currently learning various Linux Services, Cloud and DevOps Practices along with various IT Operations Technologies
+- Linux System Engineer with 4 years of experience in Linux Server Administration, Customer Support, Computer 
+Hardware, and Networking.
+- Proficient in managing Linux-based servers, monitoring performance, incident/change management, and 
+providing customer support for diverse web services.
+- Experienced in resolving hardware and networking challenges in a production environment.
+- Enthusiastic about Cloud technologies and DevOps practices, aiming to integrate these skills into my role for 
+enhanced system efficiency and scalability.
 - How to reach me nileshmuthal.jobs@gmail.com | Linkedin: https://linkedin.com/in/nileshmuthal007
 - All of my projects are available at https://nileshmuthal1317.github.io/portfolio/
 
