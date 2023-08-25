@@ -31,10 +31,19 @@ enhanced system efficiency and scalability.
 <a href="https://www.centos.org" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centos" width="40" height="40"/>
 </a>
+  <a href="https://www.servicenow.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-icon.svg" alt="ServiceNow" width="40" height="40"/>
+</a>
 <a href="https://www.nagios.org" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/nagios/nagios-icon.svg" alt="nagios" width="40" height="40"/>
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL Database" width="40" height="40"/>
+</a>
+  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" width="40" height="40"/>
+</a>
+<a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="Apache" width="40" height="40"/>
 </a>
 <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="WordPress" width="40" height="40"/>
@@ -48,6 +57,10 @@ enhanced system efficiency and scalability.
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/>
 </a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
+</a>
+
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
 </a>
