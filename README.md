@@ -16,6 +16,9 @@ enhanced system efficiency and scalability.
 
 <h3 align="left">Tools and Technologies</h3>
 <p align="left">  
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40"/>
+</a>
   <a href="https://www.redhat.com" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="redhat" width="40" height="40"/>
 </a>
