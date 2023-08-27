@@ -91,7 +91,7 @@ enhanced system efficiency and scalability.
 - Experience in communicating with customers, understanding and troubleshooting difficulties, and effectively addressing and prioritizing customer queries.
 - Exploring **DevOps Practices** and Tools:<br>
   **- Git/GitHub** for Version Control<br>
-  **- Ansible** for Configuration Management and Infrastructure Provisioning<br>
+  **- Ansible/Terraform** for Configuration Management and Infrastructure Provisioning<br>
   **- Docker** and Containerization<br>
   **- Kubernetes** for Container Orchestration<br>
   **- Continuous Integration**  and **Continuous Deployment**  Pipelines
